@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "681d68dff5872545e4ba57c1"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "gurame",
+  "produksi_(ton)": 1063
+},
+{
+  "_id": {
+    "$oid": "681d68dff5872545e4ba57c2"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "patin",
+  "produksi_(ton)": 64
+},
+{
+  "_id": {
+    "$oid": "681d68dff5872545e4ba57c3"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "lele",
+  "produksi_(ton)": 2015
+},
+{
+  "_id": {
+    "$oid": "681d68dff5872545e4ba57c4"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "nila",
+  "produksi_(ton)": 166
+},
+{
+  "_id": {
+    "$oid": "681d68dff5872545e4ba57c5"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "ikan mas",
+  "produksi_(ton)": 0
+},
+{
+  "_id": {
+    "$oid": "681d68dff5872545e4ba57c6"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "kakap",
+  "produksi_(ton)": 3
+},
+{
+  "_id": {
+    "$oid": "681d68dff5872545e4ba57c7"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "bandeng",
+  "produksi_(ton)": 163
+},
+{
+  "_id": {
+    "$oid": "681d68dff5872545e4ba57c8"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "rumput laut",
+  "produksi_(ton)": 196
+},
+{
+  "_id": {
+    "$oid": "681d68dff5872545e4ba57c9"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "kerapu",
+  "produksi_(ton)": 22
+},
+{
+  "_id": {
+    "$oid": "681d68dff5872545e4ba57ca"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "udang",
+  "produksi_(ton)": 92
+},
+{
+  "_id": {
+    "$oid": "681d68dff5872545e4ba57cb"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "ikan lainnya",
+  "produksi_(ton)": 0
+}]

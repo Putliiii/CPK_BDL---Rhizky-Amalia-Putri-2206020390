@@ -1,0 +1,703 @@
+[{
+  "_id": {
+    "$oid": "681c5de60e511e5c27990d1d"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Taman Impian Jaya Ancol",
+  "jumlah": 1674345,
+  "foto": "https://drive.google.com/file/d/17_RACI4tH8gGKse6LkFRzbjuIMc16g_2/view?usp=drive_link"
+},
+{
+  "_id": {
+    "$oid": "681c5de60e511e5c27990d1e"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Taman Mini Indonesia Indah",
+  "jumlah": 432146,
+  "foto": "https://drive.google.com/file/d/11kR_51m1wyj4SRD0OVhGl-14ZlDNzJda/view?usp=drive_link"
+},
+{
+  "_id": {
+    "$oid": "681c5de60e511e5c27990d1f"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Taman Margasatwa Ragunan",
+  "jumlah": 501231,
+  "foto": "https://drive.google.com/file/d/1CMHDhItL3MUV_mqaoF9ud_Vzv5XwvuaV/view?usp=drive_link"
+},
+{
+  "_id": {
+    "$oid": "681c5de60e511e5c27990d20"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Monumen Nasional",
+  "jumlah": 164652,
+  "foto": "https://drive.google.com/file/d/1lzKicJFEBCjG-lAk51kCilRxUn4BhKhw/view?usp=drive_link"
+},
+{
+  "_id": {
+    "$oid": "681c5de60e511e5c27990d21"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Nasional",
+  "jumlah": 21743,
+  "foto": "https://drive.google.com/file/d/1cyZN-HEag1brQSVfM5XsIDdBypbnoXqx/view?usp=drive_link"
+},
+{
+  "_id": {
+    "$oid": "681c5de60e511e5c27990d22"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Satria Mandala",
+  "jumlah": 1976,
+  "foto": "https://drive.google.com/file/d/1f8vAYCYIOOfD5AXDc8jnxv0buk0Ab2pu/view?usp=drive_link"
+},
+{
+  "_id": {
+    "$oid": "681c5de60e511e5c27990d23"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Sejarah Jakarta",
+  "jumlah": 80823,
+  "foto": "https://drive.google.com/file/d/1pCPDp0eVARPiM583V75SnB5fopuNO3Z9/view?usp=drive_link"
+},
+{
+  "_id": {
+    "$oid": "681c5de60e511e5c27990d24"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Tekstil",
+  "jumlah": 3547,
+  "foto": "https://drive.google.com/file/d/1m_c-Wq9IKjAN7iE1r7bnWolE04lfzKiD/view?usp=drive_link"
+},
+{
+  "_id": {
+    "$oid": "681c5de60e511e5c27990d25"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Bahari",
+  "jumlah": 2217,
+  "foto": "https://drive.google.com/file/d/1xrAesT3iryOqb1wRLHBKZdaC9MVzrWrE/view?usp=drive_link"
+},
+{
+  "_id": {
+    "$oid": "681c5de60e511e5c27990d26"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Seni Rupa dan Keramik",
+  "jumlah": 21432,
+  "foto": "https://drive.google.com/file/d/1P8Yvwf9FSS4zjcb2zSredJdtfFNCuLoa/view?usp=drive_link"
+},
+{
+  "_id": {
+    "$oid": "681c5de60e511e5c27990d27"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Wayang",
+  "jumlah": 39585,
+  "foto": "https://drive.google.com/file/d/1MqsTLYDNYuFY4xQG-oHxn2sSlNxCZkyR/view?usp=drive_link"
+},
+{
+  "_id": {
+    "$oid": "681c5de60e511e5c27990d28"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Joang 45 dan Thamrin",
+  "jumlah": 1263,
+  "foto": "https://drive.google.com/file/d/1P8LFvZBquQIfHPyJtisdkW6-yRSygkAY/view?usp=drive_link"
+},
+{
+  "_id": {
+    "$oid": "681c5de60e511e5c27990d29"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Taman Arkeologi Onrust",
+  "jumlah": 1776,
+  "foto": "https://drive.google.com/file/d/1_ZOmzdnvcth-TBDoJ1R9Jr-BieGVcHqL/view?usp=drive_link"
+},
+{
+  "_id": {
+    "$oid": "681c5de60e511e5c27990d2a"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Pelabuhan Sunda Kelapa",
+  "jumlah": 3612,
+  "foto": "https://drive.google.com/file/d/1R6UiAwfwVwdnxiJF7SmVm5pKtIkTw7-1/view?usp=drive_link"
+},
+{
+  "_id": {
+    "$oid": "681c5de60e511e5c27990d2b"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Kepulauan Seribu",
+  "jumlah": 16735,
+  "foto": "https://drive.google.com/file/d/1oV04iq1rgGP7OmOp0wem2Hc27s4ckL3A/view?usp=drive_link"
+},
+{
+  "_id": {
+    "$oid": "681c5de60e511e5c27990d2c"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "PBB Setu Babakan",
+  "jumlah": 32448,
+  "foto": "https://drive.google.com/file/d/1p-7V-GfbfgGsmXocK6mASWkvyWFylHKf/view?usp=drive_link"
+},
+{
+  "_id": {
+    "$oid": "681c5de60e511e5c27990d2d"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Prasasti",
+  "jumlah": 779,
+  "foto": "https://drive.google.com/file/d/1oBq1sGDPjd30zimtukCexdsobsF59x2c/view?usp=drive_link"
+},
+{
+  "_id": {
+    "$oid": "681c5de60e511e5c27990d2e"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Planetarium",
+  "jumlah": 11206,
+  "foto": "https://drive.google.com/file/d/1hmsvIJQictjLHut95IZnUEQUPTwFALJ1/view?usp=drive_link"
+},
+{
+  "_id": {
+    "$oid": "681c5de60e511e5c27990d2f"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Rumah si Pitung",
+  "jumlah": 1895,
+  "foto": "https://drive.google.com/file/d/1qlEVmfF-71qEEIWW4eQ4efGuOsFR3NKB/view?usp=drive_link"
+},
+{
+  "_id": {
+    "$oid": "681cb6d765e2d3f4448ee166"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Taman Impian Jaya Ancol",
+  "jumlah": 1674345
+},
+{
+  "_id": {
+    "$oid": "681cb6d765e2d3f4448ee167"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Taman Mini Indonesia Indah",
+  "jumlah": 432146
+},
+{
+  "_id": {
+    "$oid": "681cb6d765e2d3f4448ee168"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Taman Margasatwa Ragunan",
+  "jumlah": 501231
+},
+{
+  "_id": {
+    "$oid": "681cb6d765e2d3f4448ee169"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Monumen Nasional",
+  "jumlah": 164652
+},
+{
+  "_id": {
+    "$oid": "681cb6d765e2d3f4448ee16a"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Nasional",
+  "jumlah": 21743
+},
+{
+  "_id": {
+    "$oid": "681cb6d765e2d3f4448ee16b"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Satria Mandala",
+  "jumlah": 1976
+},
+{
+  "_id": {
+    "$oid": "681cb6d765e2d3f4448ee16c"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Sejarah Jakarta",
+  "jumlah": 80823
+},
+{
+  "_id": {
+    "$oid": "681cb6d765e2d3f4448ee16d"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Tekstil",
+  "jumlah": 3547
+},
+{
+  "_id": {
+    "$oid": "681cb6d765e2d3f4448ee16e"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Bahari",
+  "jumlah": 2217
+},
+{
+  "_id": {
+    "$oid": "681cb6d765e2d3f4448ee16f"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Seni Rupa dan Keramik",
+  "jumlah": 21432
+},
+{
+  "_id": {
+    "$oid": "681cb6d765e2d3f4448ee170"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Wayang",
+  "jumlah": 39585
+},
+{
+  "_id": {
+    "$oid": "681cb6d765e2d3f4448ee171"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Joang 45 dan Thamrin",
+  "jumlah": 1263
+},
+{
+  "_id": {
+    "$oid": "681cb6d765e2d3f4448ee172"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Taman Arkeologi Onrust",
+  "jumlah": 1776
+},
+{
+  "_id": {
+    "$oid": "681cb6d765e2d3f4448ee173"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Pelabuhan Sunda Kelapa",
+  "jumlah": 3612
+},
+{
+  "_id": {
+    "$oid": "681cb6d765e2d3f4448ee174"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Kepulauan Seribu",
+  "jumlah": 16735
+},
+{
+  "_id": {
+    "$oid": "681cb6d765e2d3f4448ee175"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "PBB Setu Babakan",
+  "jumlah": 32448
+},
+{
+  "_id": {
+    "$oid": "681cb6d765e2d3f4448ee176"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Prasasti",
+  "jumlah": 779
+},
+{
+  "_id": {
+    "$oid": "681cb6d765e2d3f4448ee177"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Planetarium",
+  "jumlah": 11206
+},
+{
+  "_id": {
+    "$oid": "681cb6d765e2d3f4448ee178"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Rumah si Pitung",
+  "jumlah": 1895
+},
+{
+  "_id": {
+    "$oid": "681d824efdf30996df168369"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Taman Impian Jaya Ancol",
+  "jumlah": 1674345
+},
+{
+  "_id": {
+    "$oid": "681d824efdf30996df16836a"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Taman Mini Indonesia Indah",
+  "jumlah": 432146
+},
+{
+  "_id": {
+    "$oid": "681d824efdf30996df16836b"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Taman Margasatwa Ragunan",
+  "jumlah": 501231
+},
+{
+  "_id": {
+    "$oid": "681d824efdf30996df16836c"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Monumen Nasional",
+  "jumlah": 164652
+},
+{
+  "_id": {
+    "$oid": "681d824efdf30996df16836d"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Nasional",
+  "jumlah": 21743
+},
+{
+  "_id": {
+    "$oid": "681d824efdf30996df16836e"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Satria Mandala",
+  "jumlah": 1976
+},
+{
+  "_id": {
+    "$oid": "681d824efdf30996df16836f"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Sejarah Jakarta",
+  "jumlah": 80823
+},
+{
+  "_id": {
+    "$oid": "681d824efdf30996df168370"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Tekstil",
+  "jumlah": 3547
+},
+{
+  "_id": {
+    "$oid": "681d824efdf30996df168371"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Bahari",
+  "jumlah": 2217
+},
+{
+  "_id": {
+    "$oid": "681d824efdf30996df168372"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Seni Rupa dan Keramik",
+  "jumlah": 21432
+},
+{
+  "_id": {
+    "$oid": "681d824efdf30996df168373"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Wayang",
+  "jumlah": 39585
+},
+{
+  "_id": {
+    "$oid": "681d824efdf30996df168374"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Joang 45 dan Thamrin",
+  "jumlah": 1263
+},
+{
+  "_id": {
+    "$oid": "681d824efdf30996df168375"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Taman Arkeologi Onrust",
+  "jumlah": 1776
+},
+{
+  "_id": {
+    "$oid": "681d824efdf30996df168376"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Pelabuhan Sunda Kelapa",
+  "jumlah": 3612
+},
+{
+  "_id": {
+    "$oid": "681d824efdf30996df168377"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Kepulauan Seribu",
+  "jumlah": 16735
+},
+{
+  "_id": {
+    "$oid": "681d824efdf30996df168378"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "PBB Setu Babakan",
+  "jumlah": 32448
+},
+{
+  "_id": {
+    "$oid": "681d824efdf30996df168379"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Prasasti",
+  "jumlah": 779
+},
+{
+  "_id": {
+    "$oid": "681d824efdf30996df16837a"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Planetarium",
+  "jumlah": 11206
+},
+{
+  "_id": {
+    "$oid": "681d824efdf30996df16837b"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Rumah si Pitung",
+  "jumlah": 1895
+},
+{
+  "_id": {
+    "$oid": "681d919294bf2040c277092e"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Taman Impian Jaya Ancol",
+  "jumlah": 1674345
+},
+{
+  "_id": {
+    "$oid": "681d919294bf2040c277092f"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Taman Mini Indonesia Indah",
+  "jumlah": 432146
+},
+{
+  "_id": {
+    "$oid": "681d919294bf2040c2770930"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Taman Margasatwa Ragunan",
+  "jumlah": 501231
+},
+{
+  "_id": {
+    "$oid": "681d919294bf2040c2770931"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Monumen Nasional",
+  "jumlah": 164652
+},
+{
+  "_id": {
+    "$oid": "681d919294bf2040c2770932"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Nasional",
+  "jumlah": 21743
+},
+{
+  "_id": {
+    "$oid": "681d919294bf2040c2770933"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Satria Mandala",
+  "jumlah": 1976
+},
+{
+  "_id": {
+    "$oid": "681d919294bf2040c2770934"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Sejarah Jakarta",
+  "jumlah": 80823
+},
+{
+  "_id": {
+    "$oid": "681d919294bf2040c2770935"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Tekstil",
+  "jumlah": 3547
+},
+{
+  "_id": {
+    "$oid": "681d919294bf2040c2770936"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Bahari",
+  "jumlah": 2217
+},
+{
+  "_id": {
+    "$oid": "681d919294bf2040c2770937"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Seni Rupa dan Keramik",
+  "jumlah": 21432
+},
+{
+  "_id": {
+    "$oid": "681d919294bf2040c2770938"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Wayang",
+  "jumlah": 39585
+},
+{
+  "_id": {
+    "$oid": "681d919294bf2040c2770939"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Joang 45 dan Thamrin",
+  "jumlah": 1263
+},
+{
+  "_id": {
+    "$oid": "681d919294bf2040c277093a"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Taman Arkeologi Onrust",
+  "jumlah": 1776
+},
+{
+  "_id": {
+    "$oid": "681d919294bf2040c277093b"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Pelabuhan Sunda Kelapa",
+  "jumlah": 3612
+},
+{
+  "_id": {
+    "$oid": "681d919294bf2040c277093c"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Kepulauan Seribu",
+  "jumlah": 16735
+},
+{
+  "_id": {
+    "$oid": "681d919294bf2040c277093d"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "PBB Setu Babakan",
+  "jumlah": 32448
+},
+{
+  "_id": {
+    "$oid": "681d919294bf2040c277093e"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Museum Prasasti",
+  "jumlah": 779
+},
+{
+  "_id": {
+    "$oid": "681d919294bf2040c277093f"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Planetarium",
+  "jumlah": 11206
+},
+{
+  "_id": {
+    "$oid": "681d919294bf2040c2770940"
+  },
+  "tahun": 2019,
+  "bulan": "01",
+  "destinasi_wisatawan": "Rumah si Pitung",
+  "jumlah": 1895
+}]
