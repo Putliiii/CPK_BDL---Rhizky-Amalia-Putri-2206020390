@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8d4"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "teri",
+  "produksi_(ton)": 562
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8d5"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "teri nasi",
+  "produksi_(ton)": 0
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8d6"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "belanak",
+  "produksi_(ton)": 1
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8d7"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "bentong",
+  "produksi_(ton)": 1058
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8d8"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "cendro",
+  "produksi_(ton)": 125
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8d9"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "daun bambu",
+  "produksi_(ton)": 112
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8da"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "ikan terbang",
+  "produksi_(ton)": 0
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8db"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "japuh",
+  "produksi_(ton)": 384
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8dc"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "julung-julung",
+  "produksi_(ton)": 0
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8dd"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "banyar",
+  "produksi_(ton)": 65
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8de"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "kembung",
+  "produksi_(ton)": 1524
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8df"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "layang anggur",
+  "produksi_(ton)": 0
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8e0"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "layang deles",
+  "produksi_(ton)": 0
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8e1"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "layang biru",
+  "produksi_(ton)": 0
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8e2"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "layang benggol",
+  "produksi_(ton)": 6854
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8e3"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "lemuru",
+  "produksi_(ton)": 56
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8e4"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "siro",
+  "produksi_(ton)": 587
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8e5"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "selar komo",
+  "produksi_(ton)": 0
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8e6"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "selar hijau",
+  "produksi_(ton)": 0
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8e7"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "selar kuning",
+  "produksi_(ton)": 1157
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8e8"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "sunglir",
+  "produksi_(ton)": 217
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8e9"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "tembung",
+  "produksi_(ton)": 1258
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8ea"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "selanget",
+  "produksi_(ton)": 2
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8eb"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "terubuk",
+  "produksi_(ton)": 0
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8ec"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "tetengkek",
+  "produksi_(ton)": 851
+},
+{
+  "_id": {
+    "$oid": "681dc96ecc72e1ae197af8ed"
+  },
+  "tahun": 2018,
+  "jenis_ikan": "semar",
+  "produksi_(ton)": 217
+}]
